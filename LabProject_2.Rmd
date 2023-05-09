@@ -580,7 +580,7 @@ nycflights %>%
 
 ```
 
-10. Suppose you define a flight to be \"on time\" if it gets to the
+10. Suppose you define a flight to be "on time" if it gets to the
     destination on time or earlier than expected, regardless of any
     departure delays. Mutate the data frame to create a new variable
     called arr_type with levels "on time" and "delayed" based on this
